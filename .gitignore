@@ -1,0 +1,9 @@
+# Exclude cache files generated
+__pycache__/
+
+# Exclude sensitive keys/certs
+.env
+ssl/
+
+# Exclude settings
+.vscode/
